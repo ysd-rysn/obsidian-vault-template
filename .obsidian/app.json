@@ -10,10 +10,10 @@
     "Templates/",
     "Archive/"
   ],
-  "newFileFolderPath": "Inbox",
+  "newFileFolderPath": "01 Inbox",
   "showInlineTitle": false,
   "showRibbon": false,
   "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Resources/Attachments"
+  "attachmentFolderPath": "05 Resources/Attachments"
 }

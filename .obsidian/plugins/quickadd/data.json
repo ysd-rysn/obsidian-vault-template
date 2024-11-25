@@ -5,7 +5,7 @@
       "name": "Add an atmic note",
       "type": "Template",
       "command": false,
-      "templatePath": "Templates/03 Atomic Note Template.md",
+      "templatePath": "99 Templates/03 Atomic Note Template.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -34,7 +34,7 @@
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "Templates",
+  "templateFolderPath": "99 Templates",
   "announceUpdates": true,
   "version": "1.11.5",
   "disableOnlineFeatures": true,

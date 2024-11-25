@@ -2,7 +2,7 @@
   "version": 4,
   "homepages": {
     "Main Homepage": {
-      "value": "Resources/Kanbans/Tasks",
+      "value": "05 Resources/Kanbans/Tasks",
       "kind": "File",
       "openOnStartup": true,
       "openMode": "Replace all open notes",
