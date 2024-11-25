@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1732457528862,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1732346067912,
+          "path": "Resources/Kanbans/Tasks.md",
+          "title": "Tasks"
+        }
+      ],
+      "title": "Kanbans"
+    },
+    {
+      "type": "group",
+      "ctime": 1732457538079,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1732457516060,
+          "path": "Resources/Databases/Tables/FleetingNotes.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1732457504733,
+          "path": "Resources/Databases/Tables/AtomicNotes.md"
+        }
+      ],
+      "title": "Databases"
+    }
+  ]
+}

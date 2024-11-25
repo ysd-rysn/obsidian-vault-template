@@ -1,0 +1,19 @@
+{
+  "livePreview": false,
+  "propertiesInDocument": "source",
+  "showLineNumber": true,
+  "tabSize": 2,
+  "vimMode": true,
+  "newFileLocation": "folder",
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "Templates/",
+    "Archive/"
+  ],
+  "newFileFolderPath": "Inbox",
+  "showInlineTitle": false,
+  "showRibbon": false,
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Resources/Attachments"
+}
